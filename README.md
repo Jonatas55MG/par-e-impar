@@ -16,7 +16,7 @@ computador_pi = ()
 
 if jogadas_pi == 0 or jogadas_pi == 1:
     if jogadas_pi == 0:
-        jogador_pi = jogadas[0]
+        jogadas_pi = jogadas[0]
         computador_pi = jogadas[1]
     else:
         jogadas_pi = jogadas[1]
