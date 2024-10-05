@@ -11,7 +11,7 @@ if jogador < 0 or jogador > 10:
 
 soma = jogador + computador
 jogadas = ('Ìmpar','Par')
-jogadas_pi = int(input('Escolha 0 pra ÍMPAR OU 1 PARA par'))
+jogadas_pi = int(input('Escolha 0 pra ÍMPAR OU 1 PARA par: '))
 computador_pi = ()
 
 if jogadas_pi == 0 or jogadas_pi == 1:
